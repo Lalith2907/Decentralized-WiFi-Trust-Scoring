@@ -1,1 +1,1 @@
-# Network-Scorer
+# Decentralized-WiFi-Trust-Scoring
