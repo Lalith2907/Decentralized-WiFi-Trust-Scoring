@@ -1,1 +1,1 @@
-# Decentralized-WiFi-Trust-Scoring
+# Strategic-Honeypot
